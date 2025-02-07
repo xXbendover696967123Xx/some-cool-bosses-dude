@@ -1,0 +1,51 @@
+{
+    "name": "some cool bosses dude......",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "hyper the dragon bosses - Copy": "pkg:hyper the dragon bosses - Copy.json"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts",
+        "hyper the dragon bosses - Copy.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.12.46",
+        "tag": "v1.12.46",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/e66fb08db35df2249cd64300195259c64d497106",
+        "target": "1.12.58",
+        "pxt": "8.5.57",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "assetPack": true,
+    "palette": [
+        "#000000",
+        "#FFFFFF",
+        "#FF2121",
+        "#DAD310",
+        "#FF8135",
+        "#FFF609",
+        "#249CA3",
+        "#78DC52",
+        "#87F2FF",
+        "#003FAD",
+        "#8C8C8C",
+        "#A4839F",
+        "#5C406c",
+        "#E5CDC4",
+        "#404040",
+        "#000000"
+    ]
+}
